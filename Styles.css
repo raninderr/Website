@@ -41,10 +41,17 @@ p {
 	border-radius: 8px;
 }
 
-input {
-	background-color: #ECDFCC;
-	color-scheme: dark;
-  }
+.input {
+	color: #ECDFCC;
+	font-size: larger;
+	font-family: "Poppins", sans-serif;
+	background-color: #181C14;
+	border-radius: 8px;
+}
+
+
+
+
 
 .settings {
 	color: #ECDFCC;
@@ -62,10 +69,13 @@ input {
 	opacity: 1!important;
 	background-color: #181C14;
 	  }
-	.theme {
-		color: #ECDFCC;
-		font-size: larger;
-		font-family: "Poppins", sans-serif;
-		background-color: #181C14;
-		border-radius: 8px;
+
+  .Themes {
+	color: #ECDFCC;
+	padding: 14px 30px;
+	font-size: large;
+	font-family: "Poppins", sans-serif;
+	background-color: #181C14;
+	border-radius: 8px;
 	}
+
