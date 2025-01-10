@@ -49,7 +49,6 @@ const jsConfetti = new JSConfetti();
       });
 
 
-// Settings button script
-toggler.addEventListener('click',function(){
+      toggler.addEventListener('click',function(){
         section.classList.toggle("settings");
     })
